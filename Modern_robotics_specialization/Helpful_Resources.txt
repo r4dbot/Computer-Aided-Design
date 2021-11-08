@@ -8,3 +8,6 @@ http://hades.mech.northwestern.edu/index.php/Modern_Robotics
 
 Course note by muchen sun
 https://muchensun.github.io/ModernRoboticsCourseNotes/ch2.html
+
+Course note by gloogger
+https://gloogger.github.io/Modern_Robotics_Notes/KapVIII.html
